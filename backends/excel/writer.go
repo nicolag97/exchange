@@ -2,7 +2,7 @@ package excel
 
 import (
 	excelize "github.com/360EntSecGroup-Skylar/excelize/v2"
-	"github.com/qor/exchange"
+	"github.com/nicolag97/exchange"
 	"github.com/qor/qor"
 	"github.com/qor/qor/resource"
 	"github.com/qor/roles"

@@ -2,11 +2,10 @@ package excel
 
 import (
 	"errors"
+	"github.com/360EntSecGroup-Skylar/excelize/v2"
 	"io"
 	"os"
 	"path/filepath"
-
-	"github.com/360EntSecGroup-Skylar/excelize"
 )
 
 // New new excel backend

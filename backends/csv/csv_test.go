@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/qor/exchange"
-	csv_adaptor "github.com/qor/exchange/backends/csv"
-	"github.com/qor/exchange/tests"
+	"github.com/nicolag97/exchange"
+	csv_adaptor "github.com/nicolag97/exchange/backends/csv"
+	"github.com/nicolag97/exchange/tests"
 	"github.com/qor/qor"
 	"github.com/qor/qor/resource"
 	"github.com/qor/qor/test/utils"

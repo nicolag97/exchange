@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"fmt"
 
-	"github.com/qor/exchange"
+	"github.com/nicolag97/exchange"
 	"github.com/qor/qor"
 	"github.com/qor/qor/resource"
 	"github.com/qor/roles"
